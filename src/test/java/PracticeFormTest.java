@@ -15,7 +15,7 @@ public class PracticeFormTest {
         Configuration.baseUrl = "https://demoqa.com";
         Configuration.pageLoadStrategy = "eager";
         Configuration.holdBrowserOpen = false;
-        Configuration.timeout = 4000; // default 4000
+        Configuration.timeout = 5000; // default 4000
     }
 
     @Test
